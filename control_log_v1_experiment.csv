@@ -1,0 +1,6 @@
+time,tls,selected_phase,max_queue,avg_queue,phase_switched
+60,A1,3,2,0.5,1
+60,B0,3,1,0.25,1
+60,B1,3,1,0.35,1
+60,B2,3,1,0.08333333333333333,1
+60,C1,3,0,0,1

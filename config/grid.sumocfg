@@ -1,0 +1,16 @@
+<configuration>
+    <input>
+        <net-file value="../network/grid.net.xml"/>
+        <route-files value="../routes/grid.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="600"/>
+        <step-length value="1"/>
+    </time>
+
+    <report>
+        <verbose value="true"/>
+    </report>
+</configuration>
