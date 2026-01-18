@@ -6,16 +6,34 @@ https://www.notion.so/IIT-DELHI-intern-2e4ec13d0d0d8094be5cf7962ebb9e3b
 
 
 
+	
+**Project Documentation**:	 
+Comprehensive documentation  for this project is maintained in Notion. It includes:
 
-**Project Documentation**
+Internship assignment context (IIT Delhi)                                     
+Experiment design and methodology                               
+Explanation of traffic control logic (Base & V1–V5)                               
+Graphs, plots, and result analysis                                      
+Handwritten notes and derivations created during development                                   
 
-Comprehensive documentation for this project is maintained in Notion. It includes:
 
-Internship assignment context (IIT Delhi)
-Experiment design and methodology
-Explanation of traffic control logic (Base & V1–V5)
-Graphs, plots, and result analysis
-Handwritten notes and derivations created during development
+
+🎥 **Video Explanation**
+
+A detailed video walkthrough explaining the project, experiments, and documentation is available at the link below:
+🔗 Video Explanation:  https://drive.google.com/file/d/1UOOuXsA-0Fmt_ucIWvq0G9IOqpr6uzpn/view?usp=sharing
+
+
+
+
+
+
+
+
+
+                                           
+
+
 
 **Note:** I will update this project from time to time. All changes will automatically be reflected in the link provided.
 
